@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LoopImageView">
+        <attr name="src" format="reference"></attr>
+        <attr name="move_speed" format="integer"></attr><!--每毫秒移动的像素数-->
+    </declare-styleable>
+</resources>
