@@ -4,6 +4,10 @@ this is a project define custom views
 
 ####1、LoopImageView
 
+- **引用库**
+		compile 'com.zhg.custom.view:LoopImageView:1.0.0'
+
+
 - **效果图**
 
 ![LoopImageView效果预览](images/loop_image_view_preview.gif)
