@@ -15,7 +15,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".activity.TestLoopImageViewActivity"></activity>
+        <activity android:name=".activity.TestLoopImageViewActivity" />
+        <activity android:name=".activity.TestCheckedTextViewActivity"></activity>
     </application>
 
 </manifest>

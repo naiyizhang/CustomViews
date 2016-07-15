@@ -19,11 +19,17 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textAllCaps="false"
-            android:digits="1232321"
             android:gravity="center"
             android:text="测试 LoopImageView" />
 
-
+    <Button
+        android:id="@+id/id_test_checked_text_view"
+        android:textAllCaps="false"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:text="测试CheckedTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
 
 
     </LinearLayout>

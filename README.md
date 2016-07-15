@@ -5,6 +5,7 @@ this is a project define custom views
 ####1、LoopImageView
 
 - **引用库**
+
 		compile 'com.zhg.custom.view:LoopImageView:1.0.0'
 
 
@@ -36,3 +37,10 @@ this is a project define custom views
         mImageView.setMoveSpeed(10);//设置每毫秒移动像素数
 
 ```
+
+
+### 2、myCheckedTextView库
+
+    * 这个库仅为添加一个属性到TextView的学习交流之用，如有正式需要CheckedTextView，请
+     使用官方CheckedTextView控件 *
+

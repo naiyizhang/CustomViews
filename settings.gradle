@@ -1,1 +1,1 @@
-include ':app', ':LoopImageView'
+include ':app', ':LoopImageView', ':myCheckedTextView'
