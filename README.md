@@ -40,7 +40,5 @@ this is a project define custom views
 
 
 ### 2、myCheckedTextView库
-
-    * 这个库仅为添加一个属性到TextView的学习交流之用，如有正式需要CheckedTextView，请
-     使用官方CheckedTextView控件 *
+*这个库仅为添加一个属性到TextView的学习交流之用，如有正式需要CheckedTextView，请使用官方CheckedTextView控件*
 
